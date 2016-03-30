@@ -1,5 +1,5 @@
 # zombies-website
-
+This is an ongoing project that aims to create a website for the *After the Zombie Apocalypse* (PHYS-140) course at Saint Mary's College of California. It will primarily showcase student projects and tutorials.
 ## Contributors
 #### Project Manager
 * Professor Boyda
@@ -18,7 +18,7 @@
 
 #### Helpful Links
 * [w3schools](http://www.w3schools.com/)
-* [css-tricks](https://css-tricks.com/almanac/)
+* [css-tricks](https://css-tricks.com/)
 
 ## Directions for getting a local repository
 1. Fork the repository for a copy on your account.
