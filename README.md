@@ -13,4 +13,10 @@ Website for Zombie Apocalypse course
 * Kevin Nguyen - [Nagoogin](https://github.com/Nagoogin)
 
 ## Task List
+- [ ] Collect and choose images/backgrounds for the site.
+- [ ] Finalize site content (sections/text).
+- [ ] Create basic layout for page(s) in **html**.
+- [ ] Create style guide and consolidate in single **css** file.
+
+
 
