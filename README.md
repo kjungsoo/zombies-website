@@ -2,7 +2,7 @@
 This is an ongoing project that aims to create a website for the *After the Zombie Apocalypse* (PHYS-140) course at Saint Mary's College of California. It will primarily showcase student projects and tutorials.
 ## Contributors
 #### Project Manager
-* Professor Boyda
+* Professor Boyda - [eboyda](https://github.com/eboyda)
 
 #### Developers
 * Guy Whittall-Scherfee - [gsw2](https://github.com/gsw2)
