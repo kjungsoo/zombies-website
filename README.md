@@ -18,5 +18,21 @@ Website for Zombie Apocalypse course
 - [ ] Create basic layout for page(s) in **html**.
 - [ ] Create style guide and consolidate in single **css** file.
 
+### Directions for getting a local repository
+1. Fork the repository for a copy on your account.
+2. Go to your fork and copy the link to the repo.
+3. In your terminal/shell, change directories using the `cd` command to get to your designated gitHub directory. If you don't have a dedicated gitHub directory yet, create one.
+4. Proceed to clone the repo into a local repository on your machine using `git clone link-name-here`. The code in the terminal/shell should look as follows:
+```
+Kevins-MacBook-Pro:~ kevinnguyen$ cd Desktop/Repos/
+Kevins-MacBook-Pro:Repos kevinnguyen$ git clone https://github.com/Nagoogin/zombies-website.git
+Cloning into 'zombies-website'...
+remote: Counting objects: 9, done.
+remote: Compressing objects: 100% (6/6), done.
+remote: Total 9 (delta 2), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (9/9), done.
+Checking connectivity... done.
+Kevins-MacBook-Pro:Repos kevinnguyen$
+```
 
 
