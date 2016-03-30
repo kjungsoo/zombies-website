@@ -1,24 +1,26 @@
 # zombies-website
-Website for Zombie Apocalypse course
 
 ## Contributors
-
-### Project Manager
+#### Project Manager
 * Professor Boyda
 
-### Developers
+#### Developers
 * Guy Whittall-Scherfee - [gsw2](https://github.com/gsw2)
 * Robert Posada - [robertposada](https://github.com/robertposada)
 * Jung Kim - [kjungsoo](http://github.com/kjungsoo)
 * Kevin Nguyen - [Nagoogin](https://github.com/Nagoogin)
 
-## Task List
+## Task List (Tentative)
 - [ ] Collect and choose images/backgrounds for the site.
 - [ ] Finalize site content (sections/text).
 - [ ] Create basic layout for page(s) in **html**.
 - [ ] Create style guide and consolidate in single **css** file.
 
-### Directions for getting a local repository
+#### Helpful Links
+* [w3schools](http://www.w3schools.com/)
+* [css-tricks](https://css-tricks.com/almanac/)
+
+## Directions for getting a local repository
 1. Fork the repository for a copy on your account.
 2. Go to your fork and copy the link to the repo.
 3. In your terminal/shell, change directories using the `cd` command to get to your designated gitHub directory. If you don't have a dedicated gitHub directory yet, create one.
